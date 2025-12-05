@@ -1,0 +1,9 @@
+measure_name,qlik_formula
+Total Net Sales,Sum(NetSales)
+Average Unit Price,Avg(UnitPrice)
+Transaction Count,Count(TransactionID)
+Sales 2023,Sum({<TransactionDate={2023}>} NetSales)
+West Region,Sum({<Region={'West'}>} NetSales)
+Premium Members,Count({<MembershipLevel={'Premium'}>} CustomerID)
+Max Quantity,Max(Quantity)
+Min Discount,Min(DiscountAmount)
