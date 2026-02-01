@@ -195,8 +195,7 @@ This project is licensed under the MIT License.
 ## 👥 Contributors
 
 - [sabareeshsp7](https://github.com/sabareeshsp7) - Co-creator
-- [YOUR_USERNAME] - Co-creator
+- [mayankatul28](https://github.com/mayankatul28) - Co-creator
 
 ---
-
 **Made with ❤️ for the BI community**
